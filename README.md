@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islem123-cell
 - 👀 I’m interested in technology, life, and everything
-- 🌱 I’m currently learning Spring Boot /Next Js
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me : abdellaoui.isslem@gmail.com
 
 <!---
